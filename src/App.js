@@ -38,7 +38,7 @@ const App = () => {
           <div className="content-location">
             <span>Hao Xiang Chi Seafood</span>
             <span>好想吃酒家</span>
-            <span>@Setia Alam</span>
+            <span>@Setia Alama</span>
           </div>
         </div>
       </div>
